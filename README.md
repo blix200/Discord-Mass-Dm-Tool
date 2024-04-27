@@ -2,7 +2,7 @@
 Run Humanoid.exe
 Wait for it to load (make sure to have antivirus off!)
 Now run the new file In The folder.
-
+Make sure to put your token Once ran and your message.
 
 
 
